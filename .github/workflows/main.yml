@@ -1,0 +1,13 @@
+name: CI
+
+on:
+  schedule:
+    # * is a special character in YAML so you have to quote this string
+    - cron:  '*/5 * * * *'
+
+jobs:
+  install:
+    runs-on: ubuntu-latest
+    steps:
+      - run: npm install caz
+      - run: npm install caz -g
