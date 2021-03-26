@@ -12,5 +12,14 @@ jobs:
   install:
     runs-on: ubuntu-latest
     steps:
+      - run: npx caz --version
+      - run: npx caz --version
+      - run: npx caz --version
+      - run: npx caz --version
+      - run: npx caz --version
+      - run: npx caz --version
+      - run: npx caz --version
+      - run: npx caz --version
+      - run: npx caz --version
+      - run: npx caz --version
       - run: npm install caz
-      - run: npm install caz -g
