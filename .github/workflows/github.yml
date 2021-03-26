@@ -1,0 +1,18 @@
+name: GitHub
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  autogreen:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - run: |
+          git config --local user.email "w@zce.me"
+          git config --local user.name "zce"
+          git remote set-url origin https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
+          git pull --rebase
+          git commit --allow-empty -m "a commit a day keeps your girlfriend away"
+          git push
