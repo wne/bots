@@ -9,7 +9,7 @@ on:
     - cron: '0 0 * * *'
 
 jobs:
-  autogreen:
+  commit:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -18,5 +18,5 @@ jobs:
           git config --local user.name "zce"
           git remote set-url origin https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
           git pull --rebase
-          git commit --allow-empty -m "a commit a day keeps your girlfriend away"
+          git commit --allow-empty -m "bot commit every day"
           git push
