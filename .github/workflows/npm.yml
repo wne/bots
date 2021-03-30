@@ -12,23 +12,5 @@ jobs:
   install:
     runs-on: ubuntu-latest
     steps:
-      - run: npx caz --version
-      - run: npx caz --version
-      - run: npx caz --version
-      - run: npx caz --version
-      - run: npx caz --version
-      - run: npx caz --version
-      - run: npx caz --version
-      - run: npx caz --version
-      - run: npx caz --version
-      - run: npx caz --version
-      - run: npm install caz --registry=https://registry.npmjs.org/
-      - run: npm install caz --registry=https://registry.npm.taobao.org/
-      - run: npm install caz --registry=https://registry.npmjs.org/
-      - run: npm install caz --registry=https://registry.npm.taobao.org/
-      - run: npm install caz --registry=https://registry.npmjs.org/
-      - run: npm install caz --registry=https://registry.npm.taobao.org/
-      - run: npm install caz --registry=https://registry.npmjs.org/
-      - run: npm install caz --registry=https://registry.npm.taobao.org/
-      - run: npm install caz --registry=https://registry.npmjs.org/
-      - run: npm install caz --registry=https://registry.npm.taobao.org/
+      - uses: actions/checkout@v2
+      - run: ./install
