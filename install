@@ -1,481 +1,481 @@
 #!/bin/bash
 
-npm i caz --registry=https://registry.npmjs.org/
+npm i caz velite --registry=https://registry.npmjs.org/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmmirror.com/
+npm i caz velite --registry=https://registry.npmmirror.com/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmjs.org/
+npm i caz velite --registry=https://registry.npmjs.org/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmmirror.com/
+npm i caz velite --registry=https://registry.npmmirror.com/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmjs.org/
+npm i caz velite --registry=https://registry.npmjs.org/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmmirror.com/
+npm i caz velite --registry=https://registry.npmmirror.com/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmjs.org/
+npm i caz velite --registry=https://registry.npmjs.org/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmmirror.com/
+npm i caz velite --registry=https://registry.npmmirror.com/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmjs.org/
+npm i caz velite --registry=https://registry.npmjs.org/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmmirror.com/
+npm i caz velite --registry=https://registry.npmmirror.com/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmjs.org/
+npm i caz velite --registry=https://registry.npmjs.org/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmmirror.com/
+npm i caz velite --registry=https://registry.npmmirror.com/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmjs.org/
+npm i caz velite --registry=https://registry.npmjs.org/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmmirror.com/
+npm i caz velite --registry=https://registry.npmmirror.com/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmjs.org/
+npm i caz velite --registry=https://registry.npmjs.org/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmmirror.com/
+npm i caz velite --registry=https://registry.npmmirror.com/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmjs.org/
+npm i caz velite --registry=https://registry.npmjs.org/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmmirror.com/
+npm i caz velite --registry=https://registry.npmmirror.com/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmjs.org/
+npm i caz velite --registry=https://registry.npmjs.org/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmmirror.com/
+npm i caz velite --registry=https://registry.npmmirror.com/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmjs.org/
+npm i caz velite --registry=https://registry.npmjs.org/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmmirror.com/
+npm i caz velite --registry=https://registry.npmmirror.com/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmjs.org/
+npm i caz velite --registry=https://registry.npmjs.org/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmmirror.com/
+npm i caz velite --registry=https://registry.npmmirror.com/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmjs.org/
+npm i caz velite --registry=https://registry.npmjs.org/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmmirror.com/
+npm i caz velite --registry=https://registry.npmmirror.com/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmjs.org/
+npm i caz velite --registry=https://registry.npmjs.org/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmmirror.com/
+npm i caz velite --registry=https://registry.npmmirror.com/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmjs.org/
+npm i caz velite --registry=https://registry.npmjs.org/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmmirror.com/
+npm i caz velite --registry=https://registry.npmmirror.com/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmjs.org/
+npm i caz velite --registry=https://registry.npmjs.org/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmmirror.com/
+npm i caz velite --registry=https://registry.npmmirror.com/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmjs.org/
+npm i caz velite --registry=https://registry.npmjs.org/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmmirror.com/
+npm i caz velite --registry=https://registry.npmmirror.com/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmjs.org/
+npm i caz velite --registry=https://registry.npmjs.org/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmmirror.com/
+npm i caz velite --registry=https://registry.npmmirror.com/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmjs.org/
+npm i caz velite --registry=https://registry.npmjs.org/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmmirror.com/
+npm i caz velite --registry=https://registry.npmmirror.com/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmjs.org/
+npm i caz velite --registry=https://registry.npmjs.org/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmmirror.com/
+npm i caz velite --registry=https://registry.npmmirror.com/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmjs.org/
+npm i caz velite --registry=https://registry.npmjs.org/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmmirror.com/
+npm i caz velite --registry=https://registry.npmmirror.com/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmjs.org/
+npm i caz velite --registry=https://registry.npmjs.org/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmmirror.com/
+npm i caz velite --registry=https://registry.npmmirror.com/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmjs.org/
+npm i caz velite --registry=https://registry.npmjs.org/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmmirror.com/
+npm i caz velite --registry=https://registry.npmmirror.com/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmjs.org/
+npm i caz velite --registry=https://registry.npmjs.org/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmmirror.com/
+npm i caz velite --registry=https://registry.npmmirror.com/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmjs.org/
+npm i caz velite --registry=https://registry.npmjs.org/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmmirror.com/
+npm i caz velite --registry=https://registry.npmmirror.com/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmjs.org/
+npm i caz velite --registry=https://registry.npmjs.org/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmmirror.com/
+npm i caz velite --registry=https://registry.npmmirror.com/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmjs.org/
+npm i caz velite --registry=https://registry.npmjs.org/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmmirror.com/
+npm i caz velite --registry=https://registry.npmmirror.com/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmjs.org/
+npm i caz velite --registry=https://registry.npmjs.org/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmmirror.com/
+npm i caz velite --registry=https://registry.npmmirror.com/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmjs.org/
+npm i caz velite --registry=https://registry.npmjs.org/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmmirror.com/
+npm i caz velite --registry=https://registry.npmmirror.com/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmjs.org/
+npm i caz velite --registry=https://registry.npmjs.org/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmmirror.com/
+npm i caz velite --registry=https://registry.npmmirror.com/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmjs.org/
+npm i caz velite --registry=https://registry.npmjs.org/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmmirror.com/
+npm i caz velite --registry=https://registry.npmmirror.com/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmjs.org/
+npm i caz velite --registry=https://registry.npmjs.org/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmmirror.com/
+npm i caz velite --registry=https://registry.npmmirror.com/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmjs.org/
+npm i caz velite --registry=https://registry.npmjs.org/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmmirror.com/
+npm i caz velite --registry=https://registry.npmmirror.com/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmjs.org/
+npm i caz velite --registry=https://registry.npmjs.org/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmmirror.com/
+npm i caz velite --registry=https://registry.npmmirror.com/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmjs.org/
+npm i caz velite --registry=https://registry.npmjs.org/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmmirror.com/
+npm i caz velite --registry=https://registry.npmmirror.com/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmjs.org/
+npm i caz velite --registry=https://registry.npmjs.org/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmmirror.com/
+npm i caz velite --registry=https://registry.npmmirror.com/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmjs.org/
+npm i caz velite --registry=https://registry.npmjs.org/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmmirror.com/
+npm i caz velite --registry=https://registry.npmmirror.com/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmjs.org/
+npm i caz velite --registry=https://registry.npmjs.org/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmmirror.com/
+npm i caz velite --registry=https://registry.npmmirror.com/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmjs.org/
+npm i caz velite --registry=https://registry.npmjs.org/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmmirror.com/
+npm i caz velite --registry=https://registry.npmmirror.com/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmjs.org/
+npm i caz velite --registry=https://registry.npmjs.org/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmmirror.com/
+npm i caz velite --registry=https://registry.npmmirror.com/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmjs.org/
+npm i caz velite --registry=https://registry.npmjs.org/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmmirror.com/
+npm i caz velite --registry=https://registry.npmmirror.com/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmjs.org/
+npm i caz velite --registry=https://registry.npmjs.org/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmmirror.com/
+npm i caz velite --registry=https://registry.npmmirror.com/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmjs.org/
+npm i caz velite --registry=https://registry.npmjs.org/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmmirror.com/
+npm i caz velite --registry=https://registry.npmmirror.com/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmjs.org/
+npm i caz velite --registry=https://registry.npmjs.org/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmmirror.com/
+npm i caz velite --registry=https://registry.npmmirror.com/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmjs.org/
+npm i caz velite --registry=https://registry.npmjs.org/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmmirror.com/
+npm i caz velite --registry=https://registry.npmmirror.com/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmjs.org/
+npm i caz velite --registry=https://registry.npmjs.org/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmmirror.com/
+npm i caz velite --registry=https://registry.npmmirror.com/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmjs.org/
+npm i caz velite --registry=https://registry.npmjs.org/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmmirror.com/
+npm i caz velite --registry=https://registry.npmmirror.com/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmjs.org/
+npm i caz velite --registry=https://registry.npmjs.org/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmmirror.com/
+npm i caz velite --registry=https://registry.npmmirror.com/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmjs.org/
+npm i caz velite --registry=https://registry.npmjs.org/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmmirror.com/
+npm i caz velite --registry=https://registry.npmmirror.com/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmjs.org/
+npm i caz velite --registry=https://registry.npmjs.org/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmmirror.com/
+npm i caz velite --registry=https://registry.npmmirror.com/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmjs.org/
+npm i caz velite --registry=https://registry.npmjs.org/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmmirror.com/
+npm i caz velite --registry=https://registry.npmmirror.com/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmjs.org/
+npm i caz velite --registry=https://registry.npmjs.org/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmmirror.com/
+npm i caz velite --registry=https://registry.npmmirror.com/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmjs.org/
+npm i caz velite --registry=https://registry.npmjs.org/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmmirror.com/
+npm i caz velite --registry=https://registry.npmmirror.com/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmjs.org/
+npm i caz velite --registry=https://registry.npmjs.org/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmmirror.com/
+npm i caz velite --registry=https://registry.npmmirror.com/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmjs.org/
+npm i caz velite --registry=https://registry.npmjs.org/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmmirror.com/
+npm i caz velite --registry=https://registry.npmmirror.com/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmjs.org/
+npm i caz velite --registry=https://registry.npmjs.org/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmmirror.com/
+npm i caz velite --registry=https://registry.npmmirror.com/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmjs.org/
+npm i caz velite --registry=https://registry.npmjs.org/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmmirror.com/
+npm i caz velite --registry=https://registry.npmmirror.com/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmjs.org/
+npm i caz velite --registry=https://registry.npmjs.org/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmmirror.com/
+npm i caz velite --registry=https://registry.npmmirror.com/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmjs.org/
+npm i caz velite --registry=https://registry.npmjs.org/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmmirror.com/
+npm i caz velite --registry=https://registry.npmmirror.com/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmjs.org/
+npm i caz velite --registry=https://registry.npmjs.org/
 rm -rf node_modules
 rm -rf package-lock.json
 
-npm i caz --registry=https://registry.npmmirror.com/
+npm i caz velite --registry=https://registry.npmmirror.com/
 rm -rf node_modules
 rm -rf package-lock.json
